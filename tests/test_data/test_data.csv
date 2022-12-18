@@ -1,0 +1,13 @@
+id,product,sale_type,sale_date,num_sales
+1,product_1,online,2022-11-01,8
+2,product_1,online,2022-11-02,6
+3,product_1,online,2022-11-04,12
+4,product_1,retail,2022-11-01,11
+5,product_1,retail,2022-11-02,15
+6,product_1,retail,2022-11-03,22
+7,product_1,retail,2022-11-04,21
+8,product_2,online,2022-11-02,1
+9,product_2,online,2022-11-03,3
+10,product_2,retail,2022-11-01,1
+11,product_2,retail,2022-11-02,5
+12,product_2,retail,2022-11-04,2
