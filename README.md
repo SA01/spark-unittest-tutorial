@@ -1,4 +1,4 @@
-# PySpark Unit Testing Tutorial: Writing Unit Tests for Spark SQL Transformations
+# Spark Unit Testing Tutorial
 
 This repository contains the code and examples for my article on Medium, which explains how to write unit tests for Spark SQL transformations in PySpark. You can read the full article here:  
 [**PySpark: Writing Unit Tests for Spark SQL Transformations**](https://medium.com/@suffyan.asad1/pyspark-writing-unit-tests-for-spark-sql-transformations-c8cf336a98bc)
